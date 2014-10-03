@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yet Another Feed Reader</string>
+    <string name="action_add">Add</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_feed">YetAnotherFeedReader</string>
+    <string name="title_activity_item">YetAnotherFeedReader</string>
+    <string name="title_fragment_add_feed">Subscribe to new RSS Feed</string>
+    <string name="feed_delete">Do you really want to delete this feed and all of its entries?</string>
+
+</resources>
